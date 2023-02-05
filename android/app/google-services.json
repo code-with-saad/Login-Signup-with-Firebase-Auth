@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "506910508131",
+    "project_id": "fir-practice-e489d",
+    "storage_bucket": "fir-practice-e489d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:506910508131:android:9bfeab2e2b9601de89e456",
+        "android_client_info": {
+          "package_name": "com.example.app1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "506910508131-5p4r3i6s26avna4thboss0h3nn8k6hd6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZVJOsXsdCpCCCwUbDGBnisxl9zrd3mDw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "506910508131-5p4r3i6s26avna4thboss0h3nn8k6hd6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "506910508131-bqcmmn3gt91b5kj2htniuujpkqfat114.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.app1"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
